@@ -11,6 +11,6 @@ Clicando em Cadastrar Edificio aparecera para voce dar um nome para o edificio. 
 e se apertar em voltar assim que criar o Edificio, em cadastrar Apartamentos já aparece a opção do Edificio criado.
 Só que ai adicionar apartamentos, ele dará um erro, mas se perceber, se abrir o console os apartamentos serçao criados pois deu um erro que nao consegui resolver..
 
-a parte do Back-end nao consegui fazer pois nao tenho conhecimento ainda de banco de dados, somente de Front-end,e é isso, espero que gostem e vou me dedicar a terminar esse projeto, mesmo que seja somente para deixar em meu repositório.
+a parte do Back-end nao consegui fazer pois nao tenho conhecimento ainda de banco de dados, somente de Front-end, e é isso, espero que gostem.
 
 Obrigado pela atenção
