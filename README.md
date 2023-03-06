@@ -2,7 +2,7 @@
 
 Olá, primeiramente peço que baixem o projeto pois deu um erro na hora de fazer o deploy que nao consegui resolver..
 
-Primeiramente temos 2 edificios ja prontos, em Ver disponibildiades será a parte de ver quais apartamentos tem disponivel com valores.. etc, só que nao consegui terminar a tempo, e em Eu sou locador.. no canto superior direito, voce entra para adicionar mais edificios e apartamentos..
+Temos 2 edificios ja prontos, em Ver disponibildiades será a parte de ver quais apartamentos tem disponivel com valores.. etc, só que nao consegui terminar a tempo, e em Eu sou locador.. no canto superior direito, voce entra para adicionar mais edificios e apartamentos..
 
 Clicando voce terá que fazer um login que usuario e senha e aperte em entrar
 
