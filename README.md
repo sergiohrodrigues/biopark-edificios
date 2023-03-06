@@ -6,7 +6,7 @@ Primeiramente temos 2 edificios ja prontos, em Ver disponibildiades será a part
 
 Clicando voce terá que fazer um login que usuario e senha e aperte em entrar
 
-Clicando em Cadastrar Edificio aparecera para voce dar um nome para o edificio. e quando apertar em cadastrar terá uma mensagem de sucesso e se ir no inicio apertando na logo da BIOPARK, já aparecera o edificio cadastrada, com uma imagem padrão para todos edificios, tentei criar uma parte para inserir imagem, mas algumas apareciam e outros nao..
+Clicando em Cadastrar Edificio aparecera para voce dar um nome para o edificio. e quando apertar em cadastrar terá uma mensagem de sucesso e se ir no inicio apertando na logo da BIOPARK, já aparecera o edificio cadastrada, com uma imagem padrão para todos edificios, tentei criar uma parte para inserir imagem, mas umas apareciam e outras nao..
 
 e se apertar em voltar assim que criar o Edificio, em cadastrar Apartamentos já aparece a opção do Edificio criado.
 Só que ai adicionar apartamentos, ele dará um erro, mas se perceber, se abrir o console os apartamentos serçao criados pois deu um erro que nao consegui resolver..
