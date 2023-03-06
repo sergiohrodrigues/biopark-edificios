@@ -5,33 +5,3 @@
     flex-wrap: wrap;
     gap: 1.5rem;
 }
-
-.edificio{
-    text-align: center;
-}
-
-.edificio button{
-    margin-top: 1rem;
-    padding: 1rem;
-    border: none;
-    background-color: green;
-    border-radius: 16px;
-    color: #fff;
-}
-
-.edificio button:hover{
-    text-decoration: underline;
-    cursor: pointer;
-}
-
-.edificio img{
-    width: 200px;
-    height: 300px;
-}
-
-@media screen and (max-width: 768px){
-    .container{
-        text-align: center;
-        justify-content: center;
-    }
-}

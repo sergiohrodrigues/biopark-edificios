@@ -6,7 +6,7 @@ EdificioContext.displayName = "Edificios"
 export const EdificioProvider = ({ children }) => {
     const [nome, setNome] = useState("")
     const [imagem, setImagem] = useState("")
-    const [idEdficio, setIdEdificio] = useState("")
+    const [idEdificio, setIdEdificio] = useState("")
     const [edificio, setEdificio] = useState([
         {
             "id": 0,
@@ -64,7 +64,7 @@ export const EdificioProvider = ({ children }) => {
             setNome,
             imagem,
             setImagem,
-            idEdficio,
+            idEdificio,
             setIdEdificio
         }}>
             {children}
