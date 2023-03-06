@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Funcionalidades do projeto Biopark Edificios
 
 Olá, primeiramente peço que baixem o projeto pois deu um erro na hora de fazer o deploy que nao consegui resolver..
 
