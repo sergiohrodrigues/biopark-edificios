@@ -1,0 +1,40 @@
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 1rem;
+}
+
+.cabecalho img{
+    width: 250px;
+}
+
+.navegacao{
+    display: flex;
+    align-items: center;
+}
+
+.navegacao span{
+    font-size: 1.5rem;
+}
+
+.navegacao a{
+    font-size: 1.5rem;
+    background-color: red;
+    border-radius: 8px;
+    margin: 0 0.5rem;
+    padding: 0.5rem 0.2rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.navegacao a:hover{
+    color: black;
+    transition: 1s;
+}
+
+@media screen and (max-width: 768px){
+    .cabecalho{
+        flex-direction: column;
+    }
+}

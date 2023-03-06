@@ -1,0 +1,24 @@
+.form {
+    width: 50%;
+    margin: 2rem auto;
+    text-align: left;
+    background-color: rgb(176, 176, 176);
+    padding: 1rem;
+}
+
+.form input{
+    margin: 0.5rem 0 0 0;
+    font-size: 1rem;
+}
+
+.form button{
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    border: none;
+}
+
+.form p{
+    font-size: 0.8rem;
+    color: green;
+}

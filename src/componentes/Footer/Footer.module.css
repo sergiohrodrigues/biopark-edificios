@@ -1,0 +1,10 @@
+.rodape{
+    background-color: rgb(61, 61, 61);
+    padding: 0.9rem;
+    text-align: center;
+}
+
+.rodape h3{
+    font-size: 0.9rem;
+    color: #fff;
+}
