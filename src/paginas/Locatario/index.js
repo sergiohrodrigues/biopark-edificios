@@ -1,13 +1,9 @@
-import { useNavigate, useParams } from 'react-router-dom'
 import { useContext } from 'react'
 import { EdificioContext } from '../../content/Edificio'
 import styles from './Locatario.module.css'
 
 export default function Locatario() {
-    const { edificio, idEdificio, setIdEdificio } = useContext(EdificioContext)
-
-    const navigate = useNavigate()
-    const params = useParams()
+    const { edificio } = useContext(EdificioContext)
 
     function verDisponibildiades(id) {
         // const idEdificioClicado = id
@@ -15,10 +11,10 @@ export default function Locatario() {
         // navigate(`/locatorio/${idEdificio}`)
     }
     
-    function verDisponibildiades2(id){
-        setIdEdificio(Number(id))
-        console.log(idEdificio)
-    }
+    // function verDisponibildiades2(id){
+    //     setIdEdificio(Number(id))
+    //     console.log(idEdificio)
+    // }
 
     return (
         <>
