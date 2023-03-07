@@ -17,3 +17,29 @@
     border-radius: 8px;
     border: none;
 }
+
+select{
+    width: 40%;
+    height: 30px;
+    font-size: 1.2rem;
+}
+
+option{
+    font-size: 1.2rem;
+}
+
+@media screen and (max-width: 768px){
+    .form{
+        width: 80%;
+    }
+    label{
+        font-size: 1rem;
+    }
+    select{
+        height: 25px;
+        font-size: 1rem;
+    }
+    option{
+        font-size: 1rem;
+    }
+}

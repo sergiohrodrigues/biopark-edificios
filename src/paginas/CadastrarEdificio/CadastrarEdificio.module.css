@@ -22,3 +22,12 @@
     font-size: 0.8rem;
     color: green;
 }
+
+@media screen and (max-width: 768px){
+    .form{
+        width: 80%;
+    }
+    .form input{
+        width: 90%;
+    }
+}

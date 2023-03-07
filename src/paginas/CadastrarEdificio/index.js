@@ -37,7 +37,7 @@ export default function CadastrarEdificio() {
                 "valor": "450,00"
             }]
         }])
-        document.querySelector("#sucess").innerHTML = "Edificio criado com sucesso, e adiconamos 1 apartamento para controle, volte para adicionar mais apartamentos."
+        document.querySelector("#sucess").innerHTML = "Edificio criado com sucesso, volte para adicionar apartamentos."
     }
 
     // function adicionarImagem(){

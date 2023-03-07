@@ -37,4 +37,13 @@
     .cabecalho{
         flex-direction: column;
     }
+    .navegacao img{
+        width: 100px;
+    }
+    .navegacao span{
+        font-size: 1.3rem;
+    }
+    .navegacao a{
+        font-size: 1.3rem;
+    }
 }

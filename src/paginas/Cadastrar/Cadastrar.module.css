@@ -43,3 +43,16 @@
     cursor: pointer;
     transition: 1s;
 }
+
+@media screen and (max-width: 768px){
+    .cadastrar{
+        min-width: 200px;
+        width: 90%;
+    }
+    .cadastrar h2{
+        font-size: 1.3rem;
+    }
+    .btnCadastrar {
+        font-size: 1rem;
+    }
+}

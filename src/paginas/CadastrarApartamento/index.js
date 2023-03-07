@@ -15,16 +15,17 @@ export default function CadastrarApartamento() {
 
         if(edificioSelecionado === undefined){
             alert("Por favor selecione um Edificio")
+        } else {
+            for(let i = 0; i < quantidadeDeApartamentos; i++){
+                setEdificio(edificioSelecionado.apartamentos.push({
+                    "numero": edificio[indiceEdificio].apartamentos.length + 1,
+                    "locatário": "Disponivel",
+                    "valor": "250,00"
+                }))
+            }
         }
         
-        for(let i = 0; i < quantidadeDeApartamentos; i++){
-            setEdificio(edificioSelecionado.apartamentos.push({
-                "numero": edificio[indiceEdificio].apartamentos.length + 1,
-                "locatário": "Disponivel",
-                "valor": "250,00"
-            }))
-        }
-
+        navigate("/")
         console.log(edificioSelecionado)
     }
     return (
