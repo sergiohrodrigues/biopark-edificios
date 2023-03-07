@@ -1,11 +1,12 @@
-import Locatario from '../Locatario'
+import Edificios from '../../componentes/Edificios'
 import styles from './Inicio.module.css'
 
 export default function Inicio() {
 
     return (
         <main className={styles.container}>
-            <Locatario />
+            <h2>Edificios Disponiveis</h2>
+            <Edificios />
         </main>
     )
 }

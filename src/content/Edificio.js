@@ -16,17 +16,17 @@ export const EdificioProvider = ({ children }) => {
             "apartamentos": [
                 {
                     "numero": 1,
-                    "locatário": "Sergio",
+                    "locatario": "Sergio",
                     "valor": ""
                 },
                 {
                     "numero": 2,
-                    "locatário": "Disponivel",
+                    "locatario": "disponivel",
                     "valor": "450,00"
                 },
                 {
                     "numero": 3,
-                    "locatário": "Disponivel",
+                    "locatario": "disponivel",
                     "valor": "450,00"
                 },
             ]
@@ -39,17 +39,17 @@ export const EdificioProvider = ({ children }) => {
             "apartamentos": [
                 {
                     "numero": 1,
-                    "locatário": "Erik",
+                    "locatario": "Erik",
                     "valor": ""
                 },
                 {
                     "numero": 2,
-                    "locatário": "Disponivel",
+                    "locatario": "disponivel",
                     "valor": "450,00"
                 },
                 {
                     "numero": 3,
-                    "locatário": "Disponivel",
+                    "locatario": "disponivel",
                     "valor": "450,00"
                 },
             ]

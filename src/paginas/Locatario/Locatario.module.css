@@ -1,13 +1,15 @@
 .container{
-    width: 80%;
+    width: 90%;
     margin: 3rem auto;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1.5rem;
 }
 
 .edificio{
+    width: 100%;
     text-align: center;
+}
+
+.edificio img {
+    width: 100%;
 }
 
 .edificio button{
@@ -17,21 +19,4 @@
     background-color: green;
     border-radius: 16px;
     color: #fff;
-}
-
-.edificio button:hover{
-    text-decoration: underline;
-    cursor: pointer;
-}
-
-.edificio img{
-    width: 200px;
-    height: 300px;
-}
-
-@media screen and (max-width: 768px){
-    .container{
-        align-items: center;
-        justify-content: center;
-    }
 }
